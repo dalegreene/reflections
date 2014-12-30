@@ -1,0 +1,2 @@
+Q: What happens when you initialize a repository? Why do you need to do it?
+A: When the repository is initialized, no commits are created, but this is needed so that commits can be created if desired.
