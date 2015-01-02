@@ -1,0 +1,2 @@
+Q: How did viewing a diff between two versions of a file help you see the bug that was introduced?
+A: It helped to see what portion of the code could have been added or deleted in error when comparing the old to the new version to locate the bug.
