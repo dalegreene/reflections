@@ -9,3 +9,6 @@ A: Branches are different versions linking to one commit (mainly linked to maste
 
 Q: What is the benefit of having a copy of the last known state of the remote stored locally?
 A: The benefit is so that if there are any unwanted changes pulled from GitHub then you always have the original one stored.
+
+Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+A: Collaboration could be done without GitHub by eyeballing your counterpart's work face-to-face instead.
