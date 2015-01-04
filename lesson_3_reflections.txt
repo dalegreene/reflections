@@ -12,3 +12,6 @@ A: The benefit is so that if there are any unwanted changes pulled from GitHub t
 
 Q: How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 A: Collaboration could be done without GitHub by eyeballing your counterpart's work face-to-face instead.
+
+Q: When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+A: One would want to make changes in a separate branch if a trial and error portion is to be added to the project.
